@@ -9,19 +9,19 @@ SUBSTITUTE YOUR LOCAL HOSTNAME AND PORT NUMBER AS NEEDED
 
 ### How To Run
 
-*WINDOW1$ $MONGO_HOME/bin/mongod* \n
-*WINDOW2$ node app.js*
+WINDOW1$ $MONGO_HOME/bin/mongod
+WINDOW2$ node app.js
 
 ### Mongo Client
 
 How to use terminal to check the contents of your collection
-*WINDOW3$ $MONGO_HOME/bin/mongo* \n
-*> show dbs* \n
-*> use YOUR_TEST* \n
-*> show collections* \n
-*> db.YOUR_COLLECTION.find()* \n
+WINDOW3$ $MONGO_HOME/bin/mongo
+> show dbs
+> use YOUR_TEST
+> show collections
+> db.YOUR_COLLECTION.find()
 
 ### Contribute to README.md
 Put important information here!
 
-*https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet*
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
