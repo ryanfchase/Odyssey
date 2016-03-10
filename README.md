@@ -9,17 +9,17 @@ SUBSTITUTE YOUR LOCAL HOSTNAME AND PORT NUMBER AS NEEDED
 
 ### How To Run
 
-window1$ $MONGO_HOME/bin/mongod__
-window2$ node app.js__
+window1$ $MONGO_HOME/bin/mongod <br />
+window2$ node app.js <br />
 
 ### Mongo Client
 
 How to use terminal to check the contents of your collection
-window3$ $MONGO_HOME/bin/mongo__
-> show dbs__
-> use YOUR_TEST__
-> show collections__
-> db.YOUR_COLLECTION.find()__
+window3$ $MONGO_HOME/bin/mongo <br />
+> show dbs <br />
+> use YOUR_TEST <br />
+> show collections <br />
+> db.YOUR_COLLECTION.find() <br />
 
 ### Contribute to README.md
 Put important information here!
