@@ -14,7 +14,7 @@ window2$ node app.js <br />
 
 ### Mongo Client
 
-How to use terminal to check the contents of your collection
+How to use terminal to check the contents of your collection <br />
 window3$ $MONGO_HOME/bin/mongo <br />
 > show dbs <br />
 > use YOUR_TEST <br />
