@@ -1,6 +1,7 @@
 # Bower and Node folders #
 bower_components/*
 node_modules/*
+config/db.js
 
 # Compiled source #
 ###################
