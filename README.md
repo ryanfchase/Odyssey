@@ -25,3 +25,5 @@ How to use terminal to check the contents of your collection <br />
 Put important information here!
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+![alt tag](http://i.imgur.com/JoIUg3c.gif)
