@@ -1,0 +1,29 @@
+{
+  "name": "odyssey",
+  "version": "1.0.0",
+  "description": "Task tasking application to be used by medium to large sized teams. MEAN stack to be deployed on internal server.",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "config.json": "^0.0.4",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.7",
+    "mongoose": "^4.4.6",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanfchase/Odyssey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanfchase/Odyssey/issues"
+  },
+  "homepage": "https://github.com/ryanfchase/Odyssey#readme"
+}
